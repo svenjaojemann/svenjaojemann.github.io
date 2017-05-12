@@ -22,7 +22,7 @@ a:active { color: rgb(249, 79, 79); }
 #wrapper { width: 950px; margin: 0px auto; padding: 0px 10px; background-color: rgb(255, 255, 255); }
 #main, #sub { float: left; }
 #main { width: 630px; margin: 0px 20px 0px 0px; }
-#sub { width: 300px; }
+#sub { width: 300px; display: none; }
 #footer { clear: both; margin: 20px auto 0px; }
 #footer address { font-size: 82%; border-top: 1px solid rgb(204, 204, 204); padding: 10px 0px 20px; }
 .crrnt { font-weight: bold; }
